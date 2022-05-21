@@ -200,7 +200,7 @@ a {
     display: block;
     width: 25px;
     height: 25px;
-    background-image: url(/img/Search.svg);
+    background-image: url(../img/Search.svg);
 }
 
 .search-link-active:focus {
@@ -214,7 +214,7 @@ a {
 }
 
 .search-link-active:hover {
-    background-image: url(/img/orange_search.svg);
+    background-image: url(../img/orange_search.svg);
 } 
 
 .search-active {
@@ -262,7 +262,7 @@ a {
 
 .closed-search {
     display: block;
-    background-image: url(/img/closed_search.svg);
+    background-image: url(../img/closed_search.svg);
     background-repeat: no-repeat;
     width: 25px;
     background-color: #ffffff;
@@ -352,18 +352,18 @@ a {
 }
 
 .swiper-slide:nth-child(1) {
-    background-image: url(/img/main-back.jpg);
+    background-image: url(../img/main-back.jpg);
     background-repeat: no-repeat;
 }
 
 .swiper-slide:nth-child(2) {
-    background-image: url(/img/slider2.jpg);
+    background-image: url(../img/slider2.jpg);
     background-repeat: no-repeat;
 
 }
 
 .swiper-slide:nth-child(3) {
-    background-image: url(/img/slider3.jpg);
+    background-image: url(../img/slider3.jpg);
     background-repeat: no-repeat;
 }
 
@@ -459,7 +459,7 @@ a {
 .span-icon {
     display: inline;
     margin-right: 12px;
-    background-image: url('../img/i.svg');;
+    background-image: url(../img/i.svg);;
     width: 16px;
     height: 16px;
     position: relative;
@@ -490,7 +490,7 @@ a {
 .left-section {
     display: flex;
     align-items: flex-end;
-    background-image: url('../img/worker.jpg');
+    background-image: url(../img/worker.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -907,7 +907,7 @@ a {
 
 .ui-state-active.item-accordion .plus-icon {
     background-color: #ff9900;
-    background-image: url(/img/plus-hover.png);
+    background-image: url(../img/plus-hover.png);
 }
 
 .ui-state-active .title-accordion {
@@ -921,15 +921,15 @@ a {
 }
 
 .ui-state-active .plus-img {
-    background-image: url(/img/plus-hover.png);
+    background-image: url(../img/plus-hover.png);
 }
 
 .item-accordion:hover .plus-img {
-    background-image: url(/img/plus-hover.png);
+    background-image: url(../img/plus-hover.png);
 }
 
 .item-accordion:focus .plus-img {
-    background-image: url(/img/plus-hover.png);
+    background-image: url(../img/plus-hover.png);
 }
 
 .item-accordion:focus .plus-icon {
@@ -1174,7 +1174,7 @@ a {
 }
 
 .checkbox:checked + .custom-checkbox::after {
-    content: url("../img/mark.svg");
+    content: url(../img/mark.svg);
 }
 
 .custom-checkbox {
@@ -1378,7 +1378,7 @@ a {
     .search-link-mobile {
         display: block;
         position: relative;
-        background-image: url('../img/Search.svg');
+        background-image: url(../img/Search.svg);
         background-repeat: no-repeat;
         width: 25px;
         height: 25px;
@@ -1386,7 +1386,7 @@ a {
     }
 
     .search-link-mobile:hover {
-        background-image: url(/img/orange_search.svg);
+        background-image: url(../img/orange_search.svg);
     }
 
     .search-list-navigation-mobile {
@@ -1434,11 +1434,11 @@ a {
         display: none;
         width: 25px;
         height: 25px;
-        background-image: url(/img/Search.svg);
+        background-image: url(../img/Search.svg);
     }
     
     .search-link-active:hover {
-        background-image: url(/img/orange_search.svg);
+        background-image: url(../img/orange_search.svg);
     } 
 
 
@@ -1448,7 +1448,7 @@ a {
 
     .closed-search-mobile {
         display: block;
-        background-image: url(/img/closed_search.svg);
+        background-image: url(../img/closed_search.svg);
         background-repeat: no-repeat;
         width: 25px;
         background-color: #ffffff;
@@ -1513,7 +1513,7 @@ a {
         background-size: cover;
         background-position: center; 
          z-index: 2;
-        background-image: url(/img/orange_search.svg);
+        background-image: url(../img/orange_search.svg);
     } 
 
  
@@ -1620,7 +1620,7 @@ a {
         display: flex;
     
         height: 689px;
-        background-image: url('../img/stretched.jpg');
+        background-image: url(../img/stretched.jpg);
         background-repeat: no-repeat;
     }
 
